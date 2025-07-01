@@ -33,7 +33,7 @@ set Base64Decoder base64
 
 ## Scenarios
 
-- Useful for web exploits, command injection, and any context where only a limited set of shell characters are allowed.
+- Useful for web exploits, command injection, and any context where only a limited set of shell characters are allowed
 - Helps bypass input filters by avoiding problematic characters.
 
 ## References
